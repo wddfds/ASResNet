@@ -45,7 +45,7 @@ Prepare the dataset path as follows:
 ```
 
 ## Test
-The pretrained model is located in the ./pretrained folder, please run the following script to test the trained model:
+Please download the checkpoints and run the following script to test the pretrained model:
 ```sh
 python test.py
 ```
